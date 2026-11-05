@@ -1,0 +1,6 @@
+vendor/
+coverage/
+dist/
+package-lock.json
+src/catalog/*.generated.ts
+.omc/
